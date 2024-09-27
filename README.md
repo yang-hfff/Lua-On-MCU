@@ -201,10 +201,11 @@ int main(void)
 }
 ```
 
-作者：阳海峰
-BILIBILI昵称：風吹海浪
-邮箱：yang_hfff@qq.com
+作者：阳海峰 
 
+BILIBILI昵称：風吹海浪 
+
+邮箱：yang_hfff@qq.com 
 
 致谢遇见的人...
 
