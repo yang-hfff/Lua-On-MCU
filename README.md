@@ -23,7 +23,7 @@
 
 ## 详细步骤
 
-1. 去官网[www.lua.org](www.lua.org)下载**Lua5.1.5**源码
+1. 去官网[www.lua.org](https://www.lua.org)下载**Lua5.1.5**源码
 
 2. 解压，把里面的**src**目录拷贝到工程，并删除luac.c和lua.c（这俩里面有main函数，这里不需要）
 
