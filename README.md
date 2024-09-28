@@ -1,18 +1,18 @@
 # 移植LUA5.1.5到STM32F103C8T6
 
-![图片待加载](E:\CODE\MCU\STM32\STM32移植Lua\image\logo.gif)
+![图片待加载](image/logo.gif)
 
 >  上位机串口助手显示（LUA脚本包括表的嵌套、变量访问、条件判断、循环）
 
-![图片待加载](E:\CODE\MCU\STM32\STM32移植Lua\image\result.jpg)
+![图片待加载](image/result.jpg)
 
 > 不开优化编译结果
 
-![图片待加载](E:\CODE\MCU\STM32\STM32移植Lua\image\O0.jpg)
+![图片待加载](image/O0.jpg)
 
 > 开启2级优化编译结果
 
-![图片待加载](E:\CODE\MCU\STM32\STM32移植Lua\image\O2.jpg)
+![图片待加载](image/O2.jpg)
 
 ## 环境与依赖
 
