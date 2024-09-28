@@ -23,7 +23,7 @@
 
 ## 详细步骤
 
-1. 去官网[www.lua.org](www.lua.org)下载**Lua5.1.5**源码
+1. 去官网[www.lua.org](https://www.lua.org)下载**Lua5.1.5**源码
 
 2. 解压，把里面的**src**目录拷贝到工程，并删除luac.c和lua.c（这俩里面有main函数，这里不需要）
 
@@ -56,8 +56,8 @@
 
 |    优化情况    | 不优化（-O0） | -O2优化 |
 | :------------: | :-----------: | :-----: |
-| RAM(SRAM)占用  |   15960Byte   |  15960  |
-| ROM(FLASH)占用 |   65512Byte   |  55564  |
+| RAM(SRAM)占用  |   15960Byte   |  15960Byte  |
+| ROM(FLASH)占用 |   65512Byte   |  55564Byte  |
 
 **可见RAM占用在18KB以下，ROM占用在64KB以下，而我的测试芯片STM32F103C8T6的SRAM为20KB大小，FLASH为64KB大小。在RAM方面还有足够的余量**
 
